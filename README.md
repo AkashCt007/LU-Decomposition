@@ -28,7 +28,6 @@ piv,l_matrix,u_matrix=lu(matrix)
 print(l_matrix)
 print(u_matrix)
 
-
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
